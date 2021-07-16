@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-import './services/firebase';
+import './services/firebase.ts';
+import './styles/globa.scss';
+
 
 ReactDOM.render(
   <React.StrictMode>
